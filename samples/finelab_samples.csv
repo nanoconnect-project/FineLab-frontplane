@@ -1,0 +1,4 @@
+batch_id,year_month,sample_type,substrate_id,qty_planned,qty_completed,sent_date,destination,status,notes
+FL-001,2026-01,QD잉크기반박막,KM-SUB-002,5,5,2026-01-30,KIMM,발송완료,
+FL-002,2026-02,QD잉크기반박막,KM-SUB-004,5,5,2026-02-22,KIMM,발송완료,
+FL-003,2026-03,QD잉크기반박막,,5,0,,,계획중,
